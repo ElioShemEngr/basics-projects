@@ -1,3 +1,5 @@
+import sys
+
 print("Marvel Movie Character Creator")
 print("--")
 
@@ -5,6 +7,7 @@ response_1 = input("Your super power is the spider web?: ")
 
 if response_1 == "yes":
     print("You are Spider Man")
+    sys.exit()
 else:
     print("Then you're not Spider Man")
     print("Ok, next questions...")
@@ -14,6 +17,7 @@ response_2 = input("You are a big man green?: ")
 
 if response_2 == "yes":
     print("you are Hulk")
+    sys.exit()
 else:
     print("Then you're not Hulk")
     print("Ok, next questions...")
