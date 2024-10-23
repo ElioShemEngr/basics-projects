@@ -1,77 +1,121 @@
-print("E P I C   🪨  📄  ✂️   B A T T L E")
+print("E P I C    🪨  📄 ✂️  🦎 🖖   B A T T L E --- Versión 2.0")
 print()
 
-countPlayer1 = 0
-countPlayer2 = 0
+#Scores de Jugadores
+scoreJugador1 = 0
+scoreJugador2 = 0
+
+#Contador de ronda
+round = 1
 
 while True:
-    if countPlayer1 == 3:
-        print("BOTTOM LINE")
-        print("Player_1 = ", countPlayer1, "point(s)")
-        print("Player_2 = ", countPlayer2, "point(s)")
-        print("PLAYER 1 IS WIN!!!")
-        break
-    elif countPlayer2 == 3:
-        print("BOTTOM LINE")
-        print("Player_1 = ", countPlayer1)
-        print("Player_2 = ", countPlayer2)
-        print("PLAYER 2 IS WIN!!!")
-        break
+  if scoreJugador1 == 3 or scoreJugador2 == 3:
+    break
+  else:
+    print()
+    print("Ronda ", round)
+    print()
+    print("Score actual:")
+    print("Jugador 1 = ", scoreJugador1, " puntos")
+    print("Jugador 2 = ", scoreJugador2, " puntos")
+    print()
+    print("Selecciona tu movimiento (R, P, T, L o S)")
+    print()
+    jugador_1 = input("Jugador 1 > ")
+    print()
+    jugador_2 = input("Jugador 2 > ")
+    print()
+    round += 1
+    #Si Jugador 1 elige Roca(R)
+    if jugador_1=="R":
+      if jugador_2=="R":
+        print("Es un empate")
+      elif jugador_2=="P":
+        print("Papel cubre Roca, Gana Jugador 2")
+        scoreJugador2 += 1
+      elif jugador_2=="T":
+        print("Roca rompe tijeras, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="L":
+        print("Roca mata lagarto, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="S":
+        print("Spock vaporiza Roca, Gana Jugador 2")
+        scoreJugador2 += 1
+      else:
+        print("Elección de Jugador 2, Invalida")
+    #Si Jugador 1 elige Papel(P)
+    elif jugador_1=="P":
+      if jugador_2=="P":
+        print("Es un empate")
+      elif jugador_2=="R":
+        print("Papel cubre Roca, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="T":
+        print("Tijeras cortan Papel, Gana Jugador 2")
+        scoreJugador2 += 1
+      elif jugador_2=="L":
+        print("Lagarto come papel, Gana Jugador 2")
+        scoreJugador2 += 1
+      elif jugador_2=="S":
+        print("Papel desautoriza Spock, Gana Jugador 1")
+        scoreJugador1 += 1
+      else:
+        print("Elección de Jugador 2, Invalida")
+    #Si Jugador 1 elige Tijeras(T)
+    elif jugador_1=="T":
+      if jugador_2=="T":
+        print("Es un empate")
+      elif jugador_2=="R":
+        print("Roca rompe tijeras, Gana Jugador 2")
+        scoreJugador2 += 1
+      elif jugador_2=="P":
+        print("Tijeras cortan Papel, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="L":
+        print("Tijeras decapitan lagarto, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="S":
+        print("Spock rompe tijeras, Gana Jugador 2")
+        scoreJugador2 += 1
+      else:
+        print("Elección de Jugador 2, Invalida")
+    #Si Jugador 1 elige Lagarto(L)
+    elif jugador_1=="L":
+      if jugador_2=="L":
+        print("Es un empate")
+      elif jugador_2=="R":
+        print("Roca aplasta lagarto, Gana Jugador 2")
+        scoreJugador2 += 1
+      elif jugador_2=="P":
+        print("Lagarto come papel, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="T":
+        print("Tijeras decapitan lagarto, Gana Jugador 2")
+        scoreJugador2 += 1
+      elif jugador_2=="S":
+        print("Lagarto envenena a Spock, Gana Jugador 1")
+        scoreJugador1 += 1
+      else:
+        print("Elección de Jugador 2, Invalida")
+    #Si Jugador 1 elige Spock(S)
+    elif jugador_1=="S":
+      if jugador_2=="S":
+        print("Es un empate")
+      elif jugador_2=="R":
+        print("Spock vaporiza roca, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="P":
+        print("Papel desautoriza Spock, Gana Jugador 2")
+        scoreJugador2 += 1
+      elif jugador_2=="T":
+        print("Spock rompe tijeras, Gana Jugador 1")
+        scoreJugador1 += 1
+      elif jugador_2=="L":
+        print("Lagarto envenena Spock, Gana Jugador 2")
+        scoreJugador2 += 1
+      else:
+        print("Elección de Jugador 2, Invalida")
+    #Si Jugador 1 elige Mal
     else:
-        print("Select your move (R, P or S)")
-        print()
-
-        player1 = input("Player 1 > ")
-        player2 = input("Player 2 > ")
-        print()
-
-        if player1 == "R":
-            if player2 == "R":
-                print("Player 1 and Player 2 have tied")
-                continue
-            elif player2 == "P":
-                print("Player2 +1 Point!")
-                print()
-                countPlayer2 += 1
-            elif player2 == "S":
-                print("Player1 +1 Point")
-                print()
-                countPlayer1 += 1
-            else:
-                print("Player 2 select incorrect")
-                continue
-
-        elif player1 == "P":
-            if player2 == "P":
-                print("Player 1 and Player 2 have tied")
-                continue
-            elif player2 == "S":
-                print("Player2 +1 Point!")
-                print()
-                countPlayer2 += 1
-            elif player2 == "R":
-                print("Player1 +1 Point")
-                print()
-                countPlayer1 += 1
-            else:
-                print("Player 2 select incorrect")
-                continue
-
-        elif player1 == "S":
-            if player2 == "S":
-                print("Player 1 and Player 2 have tied")
-                continue
-            elif player2 == "R":
-                print("Player2 +1 Point!")
-                print()
-                countPlayer2 += 1
-            elif player2 == "P":
-                print("Player1 +1 Point")
-                print()
-                countPlayer1 += 1
-            else:
-                print("Player 2 select incorrect")
-                continue
-
-        else:
-            print("Player 1 select incorrect")
+      print("Elección de Jugador 1, Invalida")
