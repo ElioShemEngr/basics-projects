@@ -1,18 +1,13 @@
-print("Infinity Dice")
-print()
+import random
+
+print("Infinite Dice 🎲")
+
+userSide = int(input("How many sides? > "))
+playGame = "yes"
 
 def rollDice(sides):
-    import random
+    print("You rolled ", random.randint(1,sides))
 
-    again = ""
-
-    while again != "no":
-        dice = random.randint(1,sides)
-        print("You rolled ", dice)
-        print()
-        again = input("Roll again? > ")
-
-userSide = int(input("How many Sides? > "))
-
-rollDice(userSide)
-
+while playGame == "yes":
+    rollDice(userSide)
+    playGame = input("Again? > ")
