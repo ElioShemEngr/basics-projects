@@ -1,0 +1,5 @@
+# Ignore example dart file
+dart-exercises\example.dart
+
+# Ignore example pytohn file
+python-exercises\example.py
