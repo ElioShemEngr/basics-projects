@@ -1,0 +1,17 @@
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\bin\Debug\net8.0-windows\MyfirstApp.exe
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\bin\Debug\net8.0-windows\MyfirstApp.deps.json
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\bin\Debug\net8.0-windows\MyfirstApp.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\bin\Debug\net8.0-windows\MyfirstApp.dll
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\bin\Debug\net8.0-windows\MyfirstApp.pdb
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.Form1.resources
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.csproj.GenerateResource.cache
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.dll
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\refint\MyfirstApp.dll
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.pdb
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\MyfirstApp.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\MyfirstApp\obj\Debug\net8.0-windows\ref\MyfirstApp.dll
