@@ -1,3 +1,5 @@
+import time, os
+
 def menu():
     print("---- 🧮APP CALCULADORA🧮 ----")
     print("Bienvenidos...")
