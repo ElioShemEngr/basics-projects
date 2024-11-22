@@ -1,12 +1,12 @@
 print("Math Game")
 print()
 
-numberMult = int(input("Name your multiples > "))
+numberMult: int = int(input("Name your multiples > "))
 
-score = 0
+score: int = 0
 for i in range(1,13):
     print(i, " x ", numberMult)
-    userNumber = int(input("> "))
+    userNumber: int = int(input("> "))
     if userNumber == i*numberMult:
         print("Great Work!")
         print()

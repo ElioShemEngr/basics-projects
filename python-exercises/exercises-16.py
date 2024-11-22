@@ -2,11 +2,11 @@ print("E P I C    🪨  📄 ✂️  🦎 🖖   B A T T L E --- Versión 2.0")
 print()
 
 #Scores de Jugadores
-scoreJugador1 = 0
-scoreJugador2 = 0
+scoreJugador1: int = 0
+scoreJugador2: int = 0
 
 #Contador de ronda
-round = 1
+round: int = 1
 
 while True:
   if scoreJugador1 == 3 or scoreJugador2 == 3:

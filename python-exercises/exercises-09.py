@@ -2,8 +2,8 @@ print("Generation Identifier")
 print("---------------------")
 print()
 
-nameUser = input("What's your name?: ")
-yearBirth = int(input("Which year were you born?: "))
+nameUser: str = input("What's your name?: ")
+yearBirth: int = int(input("Which year were you born?: "))
 if yearBirth >=1883 and yearBirth <=1900:
   print("Hah!", nameUser, ", You are the Lost Generation")
 elif yearBirth >=1901 and yearBirth <=1927:

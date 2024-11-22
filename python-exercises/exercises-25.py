@@ -15,7 +15,7 @@ while True:
     print("Press anything else to see the menu again")
     time.sleep(1)
     print()
-    selectUser = input(">")
+    selectUser: str = input(">")
     if selectUser == "1":
         play()
         os.system("cls")

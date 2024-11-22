@@ -1,14 +1,14 @@
 print("Grade Calculator")
 print()
-nameOfExam = input("Name of Exam: ")
+nameOfExam: str = input("Name of Exam: ")
 print()
-maxScore = int(input("Max. possible score: "))
+maxScore: int = int(input("Max. possible score: "))
 print()
-yourScore = int(input("Your Score: "))
+yourScore: int = int(input("Your Score: "))
 print()
 
 #Final Score
-finalScorePercent = ( yourScore * 100 ) / maxScore
+finalScorePercent: float = ( yourScore * 100 ) / maxScore
 
 print("In the exam of ",nameOfExam, " you got ", finalScorePercent ,"%" )
 if finalScorePercent >= 90 and finalScorePercent <= 100:

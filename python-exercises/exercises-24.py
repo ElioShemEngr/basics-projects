@@ -9,10 +9,10 @@ def rollDice6():
 def rollDice8():
     return random.randint(1,8)
 
-playGame = "yes"
+playGame: str = "yes"
 
 while playGame == "yes":
-    nameWarrior = input("Name  your warrior > ")
+    nameWarrior: str = input("Name  your warrior > ")
     print("Their health hp is ", rollDice6()*rollDice8())
     playGame = input("Again? > ")
     print()

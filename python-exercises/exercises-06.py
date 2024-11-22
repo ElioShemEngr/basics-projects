@@ -1,7 +1,7 @@
 print("MY LOGIN SYSTEM")
 print("+++++++++++++++")
-username = input("Username > ")
-password = input("Password > ")
+username: str = input("Username > ")
+password: str = input("Password > ")
 
 if username == "Elio" and password == "Xai9kzcmPettelw2":
   print("Have a great day Elio!")

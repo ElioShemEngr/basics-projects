@@ -1,14 +1,14 @@
 import random
 
-myNumber = random.randint(1,100)
+myNumber: int = random.randint(1,100)
 
 print("One-Million-to-One")
 print()
 
-round = 1
+round: int = 1
 
 while True:
-    numberGuess = int(input("What is your guess?: "))
+    numberGuess: int = int(input("What is your guess?: "))
 
     if numberGuess == myNumber:
         print("Correct")

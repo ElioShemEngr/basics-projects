@@ -4,7 +4,7 @@ print()
 exit = None
 
 while exit != "yes":
-    animal = input("What animal do you want? : ")
+    animal: str = input("What animal do you want? : ")
 
     if animal == "cow":
         print("A 🐮 cow goes moo")

@@ -3,17 +3,17 @@ print("---------------------------")
 print()
 
 # 60 seconds in 1 minute
-minute = 60
+minute: int = 60
 # 60 minutes in 1 hour
-hour = minute * 60
+hour: int = minute * 60
 # 24 hours in 1 day
-day = hour * 24
+day: int = hour * 24
 
 # Nota:
 # Months are different lengths, you might need some math!
 # Is it a leap year? +1 day!
 
-yearType = input("Is it a leap year? > ")
+yearType: str = input("Is it a leap year? > ")
 if yearType == "yes":
     year = 366 * day
 else:

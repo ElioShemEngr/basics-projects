@@ -1,11 +1,11 @@
 print("Fill-in the blank Lyrics 🎶")
 print()
 
-counter = 1
+counter: int = 1
 
 while True:
     print("Never going to ___ you up")
-    enterWord = input("> ")
+    enterWord: str = input("> ")
     if enterWord == "give":
         print("Well done, it only took you ", counter, " attempts!")
         break

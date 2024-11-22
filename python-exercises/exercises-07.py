@@ -2,12 +2,12 @@ print ("Fake Fan Finder")
 print ("---------------")
 print ()
 
-anime = input("What is your favorite anime?: ")
+anime: str = input("What is your favorite anime?: ")
 if anime == "dragon ball":
   print("Oh, it's really cool!")
-  faveCharacter = input("Name me any of the characters?: ")
+  faveCharacter: str = input("Name me any of the characters?: ")
   if faveCharacter == "goku":
-    powerName1 = input ("you got by pure chance. Okay then, what is the name her power?:")
+    powerName1: str = input ("you got by pure chance. Okay then, what is the name her power?:")
     if powerName1 == "kamehame ha":
       print("You are true fan!")
     elif powerName1 == "henki dama":

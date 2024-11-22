@@ -3,7 +3,7 @@ import sys
 print("Marvel Movie Character Creator")
 print("--")
 
-response_1 = input("Your super power is the spider web?: ")
+response_1: str = input("Your super power is the spider web?: ")
 
 if response_1 == "yes":
     print("You are Spider Man")
@@ -13,7 +13,7 @@ else:
     print("Ok, next questions...")
 print("")
 
-response_2 = input("You are a big man green?: ")
+response_2: str = input("You are a big man green?: ")
 
 if response_2 == "yes":
     print("you are Hulk")
@@ -23,7 +23,7 @@ else:
     print("Ok, next questions...")
 print("")
 
-response_3 = input("You are an engineer?: ")
+response_3: str = input("You are an engineer?: ")
 
 if response_3 == "yes":
     print("you are Iron Man")

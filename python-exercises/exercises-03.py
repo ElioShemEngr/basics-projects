@@ -1,8 +1,8 @@
-food = input("Name a food > ")
-plant = input("Name a type of plant > ")
-cooking = input("Name a method of cooking > ")
-burned = input("What word describes burned food > ")
-diy = input("Name DIY item > ")
+food: str = input("Name a food > ")
+plant: str = input("Name a type of plant > ")
+cooking: str = input("Name a method of cooking > ")
+burned: str = input("What word describes burned food > ")
+diy: str = input("Name DIY item > ")
 print()
 
 print("MENU")

@@ -3,8 +3,8 @@ def loginSystem():
     print()
 
     while True:
-        username = input("Username > ")
-        password = input("Password > ")
+        username = input("Username > ").lower()
+        password = input("Password > ").lower()
         print()
 
         if username == "elio" and password == "lolaso":

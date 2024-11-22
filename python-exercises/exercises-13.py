@@ -4,8 +4,8 @@ print()
 print("Select your move (R, P or S)")
 print()
 
-player1 = input("Player 1 > ")
-player2 = input("Player 2 > ")
+player1: str = input("Player 1 > ")
+player2: str = input("Player 2 > ")
 print()
 
 if player1 == "R":

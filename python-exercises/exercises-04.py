@@ -3,9 +3,9 @@ print("\033[31m","=== Your Adventure Simulator ===","\033[0m")
 print("""Welcome to your adventure simulator. I am going to ask you a bunch of questions and then create an epic story with you as the star!""")
 print()
 
-name = input("What is your name?: ")
-enemy = input("What is your worst enemy’s name?: ")
-superPower = input("What is your superpower?: ")
+name: str = input("What is your name?: ")
+enemy: str = input("What is your worst enemy’s name?: ")
+superPower: str = input("What is your superpower?: ")
 print()
 
 print("\033[33m", "Our Story begins as our hero name approaches a foreboding castle...", "\033[0m",)
