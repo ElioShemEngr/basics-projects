@@ -1,24 +1,24 @@
 // Exercise 02
 
-void main() {
+main() 
+{
   print('Getting to know you!');
   print('');
 
-  // Variables
-  String my_Name = 'Elio';
-  String my_Food = 'peruvian food';
-  String my_Music = 'Rock and Roll';
-  String my_Live = 'spain';
+  // Varibles
+  String myName = 'Elio';
+  String myFood = 'peruvian food';
+  String myMusic = 'Rock and Roll';
+  String myLive = 'Peru';
 
-  // Display results
-  print('');
+  // Display Results
   print('You are...');
-  print(my_Name);
+  print(myName);
   print('You are probably hungry for...');
-  print(my_Food);
+  print(myFood);
   print('And you are definitely getting your groove on to...');
-  print(my_Music);
+  print(myMusic);
   print('Living in the amazing');
-  print(my_Live);
+  print(myLive);
 
 }

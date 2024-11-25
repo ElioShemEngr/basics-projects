@@ -1,6 +1,9 @@
+//Exercise 05
+
 import 'dart:io';
 
-main(){
+main()
+{
   String response1;
   String response2;
   String response3;
@@ -15,7 +18,7 @@ main(){
     print("Yo are Spider Man");
   } else{
     print("Then you're not Spider Man");
-    print("Ok next cuestion");
+    print("Ok next cuestion...");
     print("");
   }
 
@@ -26,7 +29,7 @@ main(){
     print("Yo are Hulk");
   } else{
     print("Then you're not Hulk");
-    print("Ok next cuestion");
+    print("Ok next cuestion...");
     print("");
   }
 
