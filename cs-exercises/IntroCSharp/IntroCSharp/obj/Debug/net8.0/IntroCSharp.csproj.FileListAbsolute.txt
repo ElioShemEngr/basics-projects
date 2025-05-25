@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\bin\Debug\net8.0\IntroCSharp.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\bin\Debug\net8.0\IntroCSharp.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\bin\Debug\net8.0\IntroCSharp.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\bin\Debug\net8.0\IntroCSharp.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\bin\Debug\net8.0\IntroCSharp.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\refint\IntroCSharp.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\IntroCSharp.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\IntroCSharp\obj\Debug\net8.0\ref\IntroCSharp.dll
