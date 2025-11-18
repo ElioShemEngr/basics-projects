@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\bin\Debug\net9.0\16.PropsIndexEventOOP.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\bin\Debug\net9.0\16.PropsIndexEventOOP.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\bin\Debug\net9.0\16.PropsIndexEventOOP.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\bin\Debug\net9.0\16.PropsIndexEventOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\bin\Debug\net9.0\16.PropsIndexEventOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\refint\16.PropsIndexEventOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\16.PropsIndexEventOOP.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\16.PropsIndexEventOOP\obj\Debug\net9.0\ref\16.PropsIndexEventOOP.dll

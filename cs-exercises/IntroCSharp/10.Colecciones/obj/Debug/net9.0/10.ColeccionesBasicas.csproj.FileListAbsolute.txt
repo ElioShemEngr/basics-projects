@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\bin\Debug\net9.0\10.ColeccionesBasicas.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\bin\Debug\net9.0\10.ColeccionesBasicas.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\bin\Debug\net9.0\10.ColeccionesBasicas.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\bin\Debug\net9.0\10.ColeccionesBasicas.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\bin\Debug\net9.0\10.ColeccionesBasicas.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\refint\10.ColeccionesBasicas.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\10.ColeccionesBasicas.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\10.Colecciones\obj\Debug\net9.0\ref\10.ColeccionesBasicas.dll

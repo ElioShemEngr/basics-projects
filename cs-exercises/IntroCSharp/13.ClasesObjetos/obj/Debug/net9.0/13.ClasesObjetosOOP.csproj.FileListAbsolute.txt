@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\bin\Debug\net9.0\13.ClasesObjetosOOP.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\bin\Debug\net9.0\13.ClasesObjetosOOP.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\bin\Debug\net9.0\13.ClasesObjetosOOP.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\bin\Debug\net9.0\13.ClasesObjetosOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\bin\Debug\net9.0\13.ClasesObjetosOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\refint\13.ClasesObjetosOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\13.ClasesObjetosOOP.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\13.ClasesObjetos\obj\Debug\net9.0\ref\13.ClasesObjetosOOP.dll

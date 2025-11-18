@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\bin\Debug\net9.0\CSexample.exe
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\bin\Debug\net9.0\CSexample.deps.json
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\bin\Debug\net9.0\CSexample.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\bin\Debug\net9.0\CSexample.dll
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\bin\Debug\net9.0\CSexample.pdb
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.dll
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\refint\CSexample.dll
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.pdb
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\CSexample.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\CSexample\CSexample\obj\Debug\net9.0\ref\CSexample.dll

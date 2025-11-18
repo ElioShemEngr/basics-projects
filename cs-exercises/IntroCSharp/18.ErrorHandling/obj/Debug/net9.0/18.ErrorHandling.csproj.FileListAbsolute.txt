@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\bin\Debug\net9.0\18.ErrorHandling.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\bin\Debug\net9.0\18.ErrorHandling.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\bin\Debug\net9.0\18.ErrorHandling.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\bin\Debug\net9.0\18.ErrorHandling.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\bin\Debug\net9.0\18.ErrorHandling.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\refint\18.ErrorHandling.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\18.ErrorHandling.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\18.ErrorHandling\obj\Debug\net9.0\ref\18.ErrorHandling.dll

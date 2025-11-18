@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\bin\Debug\net9.0\14.HerenciaPolimorfOOP.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\bin\Debug\net9.0\14.HerenciaPolimorfOOP.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\bin\Debug\net9.0\14.HerenciaPolimorfOOP.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\bin\Debug\net9.0\14.HerenciaPolimorfOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\bin\Debug\net9.0\14.HerenciaPolimorfOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\refint\14.HerenciaPolimorfOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\14.HerenciaPolimorfOOP.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\14.HerenciaPolimorfOOP\obj\Debug\net9.0\ref\14.HerenciaPolimorfOOP.dll

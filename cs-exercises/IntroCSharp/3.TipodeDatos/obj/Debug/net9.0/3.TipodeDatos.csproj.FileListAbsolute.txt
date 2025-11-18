@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\bin\Debug\net9.0\3.TipodeDatos.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\bin\Debug\net9.0\3.TipodeDatos.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\bin\Debug\net9.0\3.TipodeDatos.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\bin\Debug\net9.0\3.TipodeDatos.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\bin\Debug\net9.0\3.TipodeDatos.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\refint\3.TipodeDatos.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\3.TipodeDatos.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\3.TipodeDatos\obj\Debug\net9.0\ref\3.TipodeDatos.dll

@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\bin\Debug\net9.0\6.Condicionales.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\bin\Debug\net9.0\6.Condicionales.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\bin\Debug\net9.0\6.Condicionales.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\bin\Debug\net9.0\6.Condicionales.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\bin\Debug\net9.0\6.Condicionales.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\refint\6.Condicionales.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\6.Condicionales.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\6.Condicionales\obj\Debug\net9.0\ref\6.Condicionales.dll

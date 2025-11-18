@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\bin\Debug\net9.0\CSIntensive.exe
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\bin\Debug\net9.0\CSIntensive.deps.json
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\bin\Debug\net9.0\CSIntensive.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\bin\Debug\net9.0\CSIntensive.dll
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\bin\Debug\net9.0\CSIntensive.pdb
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.dll
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\refint\CSIntensive.dll
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.pdb
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\CSIntensive.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\CSIntensive\CSIntensive\obj\Debug\net9.0\ref\CSIntensive.dll

@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\bin\Debug\net9.0\11.Strings.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\bin\Debug\net9.0\11.Strings.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\bin\Debug\net9.0\11.Strings.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\bin\Debug\net9.0\11.Strings.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\bin\Debug\net9.0\11.Strings.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\refint\11.Strings.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\11.Strings.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\11.Strings\obj\Debug\net9.0\ref\11.Strings.dll

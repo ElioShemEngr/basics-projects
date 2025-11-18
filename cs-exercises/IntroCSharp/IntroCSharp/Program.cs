@@ -1,24 +1,19 @@
 ﻿using System;
+using System.Xml.Linq;
 
-namespace IntroCSharp
+namespace RetosCS
 {
-    class Program
+    class Principal
     {
-        static void Main()
+        static void Main() 
         {
-            // Comentarios en una linea
+            //Reto01.Principal.Saludo();
+            //Reto02.Principal.Personalizado();
+            //Reto03.Principal.SumaNumeros();
+            //Reto04.Principal.SimpleLogin();
+            //Reto05.Principal.CalculadoraEdad();
+            Reto06.Principal.ParImpar();
 
-            /*
-             * Comentarios en multiples
-             * lineas
-            */
-
-            Console.WriteLine("Hola Mundo");        
-        }
-    
-    
-    
+        }   
     }
-
-
 }

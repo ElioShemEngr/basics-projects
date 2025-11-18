@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\bin\Debug\net9.0\4.EntradaSalida.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\bin\Debug\net9.0\4.EntradaSalida.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\bin\Debug\net9.0\4.EntradaSalida.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\bin\Debug\net9.0\4.EntradaSalida.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\bin\Debug\net9.0\4.EntradaSalida.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\refint\4.EntradaSalida.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\4.EntradaSalida.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\4.EntradaSalida\obj\Debug\net9.0\ref\4.EntradaSalida.dll

@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\bin\Debug\net9.0\19.ColeccionesAvanzadas.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\bin\Debug\net9.0\19.ColeccionesAvanzadas.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\bin\Debug\net9.0\19.ColeccionesAvanzadas.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\bin\Debug\net9.0\19.ColeccionesAvanzadas.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\bin\Debug\net9.0\19.ColeccionesAvanzadas.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\refint\19.ColeccionesAvanzadas.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\19.ColeccionesAvanzadas.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\19.ColeccionesAvanzadas\obj\Debug\net9.0\ref\19.ColeccionesAvanzadas.dll

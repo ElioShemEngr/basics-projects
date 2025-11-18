@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\bin\Debug\net9.0\15.InterfacesyAbstractOOP.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\bin\Debug\net9.0\15.InterfacesyAbstractOOP.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\bin\Debug\net9.0\15.InterfacesyAbstractOOP.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\bin\Debug\net9.0\15.InterfacesyAbstractOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\bin\Debug\net9.0\15.InterfacesyAbstractOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\refint\15.InterfacesyAbstractOOP.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\15.InterfacesyAbstractOOP.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\15.InterfacesyAbstractOOP\obj\Debug\net9.0\ref\15.InterfacesyAbstractOOP.dll

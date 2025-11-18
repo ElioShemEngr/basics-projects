@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\bin\Debug\net9.0\12.EnumStruct.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\bin\Debug\net9.0\12.EnumStruct.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\bin\Debug\net9.0\12.EnumStruct.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\bin\Debug\net9.0\12.EnumStruct.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\bin\Debug\net9.0\12.EnumStruct.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\refint\12.EnumStruct.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\12.EnumStruct.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\12.EnumStruct\obj\Debug\net9.0\ref\12.EnumStruct.dll

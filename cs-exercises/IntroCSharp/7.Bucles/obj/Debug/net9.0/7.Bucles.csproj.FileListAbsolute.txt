@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\bin\Debug\net9.0\7.Bucles.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\bin\Debug\net9.0\7.Bucles.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\bin\Debug\net9.0\7.Bucles.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\bin\Debug\net9.0\7.Bucles.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\bin\Debug\net9.0\7.Bucles.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\refint\7.Bucles.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\7.Bucles.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\7.Bucles\obj\Debug\net9.0\ref\7.Bucles.dll

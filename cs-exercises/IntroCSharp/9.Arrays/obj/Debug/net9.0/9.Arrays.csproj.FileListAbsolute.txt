@@ -1,0 +1,15 @@
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\bin\Debug\net9.0\9.Arrays.exe
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\bin\Debug\net9.0\9.Arrays.deps.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\bin\Debug\net9.0\9.Arrays.runtimeconfig.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\bin\Debug\net9.0\9.Arrays.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\bin\Debug\net9.0\9.Arrays.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.AssemblyInfoInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.AssemblyInfo.cs
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.csproj.CoreCompileInputs.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.sourcelink.json
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\refint\9.Arrays.dll
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.pdb
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\9.Arrays.genruntimeconfig.cache
+D:\Projects-git\basics-projects\cs-exercises\IntroCSharp\9.Arrays\obj\Debug\net9.0\ref\9.Arrays.dll
